@@ -1,5 +1,5 @@
 # AWSGAS
-AWS Signature V4 for GoogleAppScript
+AWS Signature V4 for Google Apps Script
 
 Powered by jsSHA => http://caligatio.github.com/jsSHA/
 
